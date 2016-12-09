@@ -1,0 +1,10 @@
+#### Sources
+* http://frontendbabel.info/articles/webpage-rendering-101/
+* https://apps.developers.google.com/web/fundamentals/performance/
+* https://css-tricks.com/bem-101/
+* https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/
+* http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+* http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528
+* https://apps.developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=de
+* https://css-tricks.com/specifics-on-css-specificity/#article-header-id-0
+* http://cssguidelin.es/
